@@ -42,6 +42,7 @@ public class ExceptionRatioCircuitBreakerDemo {
     private static final String KEY = "some_service";
 
     private static AtomicInteger total = new AtomicInteger();
+
     private static AtomicInteger pass = new AtomicInteger();
     private static AtomicInteger block = new AtomicInteger();
     private static AtomicInteger bizException = new AtomicInteger();
