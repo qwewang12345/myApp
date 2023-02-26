@@ -2,7 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4c6f7b3b-7527-4a8e-8b6a-b63d4e1a77fd" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/work/code/myapp/BeanDefinition.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/com/sum/proxy/com/example/demo/service/dynamicproxy/StudentBean$$EnhancerByCGLIB$$e714d088$$FastClassByCGLIB$$65dccf28.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/com/sum/proxy/com/example/demo/service/dynamicproxy/StudentBean$$EnhancerByCGLIB$$e714d088.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/com/sum/proxy/com/example/demo/service/dynamicproxy/StudentBean$$FastClassByCGLIB$$74be71f.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/com/sum/proxy/org/springframework/cglib/core/MethodWrapper$MethodWrapperKey$$KeyFactoryByCGLIB$$552be97a.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/com/sum/proxy/org/springframework/cglib/proxy/Enhancer$EnhancerKey$$KeyFactoryByCGLIB$$4ce19e8f.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/com/sun/proxy/$Proxy0.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/myapp_jar/myapp.jar" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,6 +50,7 @@
       <option name="presentableId" value="Default" />
       <updated>1677383121049</updated>
       <workItem from="1677383123111" duration="342000" />
+      <workItem from="1677385665751" duration="315000" />
     </task>
     <servers />
   </component>
