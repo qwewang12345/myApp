@@ -1,2 +1,0 @@
-apple = com.example.demo.service.spi.adaptive.AppleFruitGranter
-banana = com.example.demo.service.spi.adaptive.BananaFruitGranter
